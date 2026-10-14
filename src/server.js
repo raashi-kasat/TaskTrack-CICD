@@ -31,6 +31,9 @@ app.get("/", (req, res) => {
     </head>
     <body>
       <h1>TaskTrack</h1>
+      <title>TaskTrack | CI/CD Deployment v2.0</title>
+<h2>🚀 CI/CD Update Successful — Version 2.0</h2>
+<p>Updated directly on GitHub and deployed using Jenkins and Kubernetes.</p>
       <p>Simple Task Management Application</p>
       <p class="status">Application status: Running</p>
       <p>Version: 1.0.0</p>
